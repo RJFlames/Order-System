@@ -1,0 +1,32 @@
+
+{
+  "Category": {
+    "01": {
+      "Name": "DRINKS",
+      "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoodline.com%2F2019%2F04%2F7-leaves-cafe-brings-coffee-and-tea-and-more-to-sharpstown&psig=AOvVaw1aF7Zh4c-kCEWEFB2au9iF&ust=1589234565468000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiGyaCmqukCFQAAAAAdAAAAABAD"
+    },
+    "02": {
+      "Name": "SNACKS",
+      "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkirbiecravings.com%2Ftaiwanese-popcorn-chicken%2F&psig=AOvVaw0oQ5u8uNfG9iDKm53VU_6j&ust=1589234610425000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCms7amqukCFQAAAAAdAAAAABAD"
+    },
+    "03": {
+      "Name": "SOUVENIR",
+      "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoursquare.com%2Fv%2F7-leaves-cafe%2F5bc424553b8307002c06e861&psig=AOvVaw2WG67CCS5nTf9W3lvHCTZh&ust=1589234632706000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDz2cCmqukCFQAAAAAdAAAAABAW"
+    }
+  },
+
+  "user" : {
+    "123456789" : {
+      "Name" : "Richard",
+      "Password" : "1234"
+    },
+    "135792468" : {
+      "name" : "San",
+      "password" : "bitbird"
+    },
+    "987654321" : {
+      "Name" : "Tina",
+      "Password" : "4321"
+    }
+  }
+}
